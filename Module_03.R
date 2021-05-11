@@ -1,6 +1,6 @@
 #Name: Shruti Kamble
 #Course: Intermediate Analytics
-#Instructor: Prof. Roy Wada
+#Title: GLM and Logistic Regression
 #Date: 05/01/2021
 
 #1.Import the dataset and perform Exploratory Data Analysis by using descriptive statistics and plots to describe the dataset.
